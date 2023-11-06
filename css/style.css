@@ -97,3 +97,35 @@ footer p{
     font-size: 18px;
     padding-top: 24px;
 }
+
+.sector {
+    background-color: #ACAAAA;
+    width: 250px;
+}
+
+.constructor {
+    display: flex;
+    justify-content: space-around;
+    width: 1191px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.sec_image {
+    float: none;
+    display: flex;
+    margin: auto;
+    width: 220px;
+    height: 225px;
+}
+
+.button {
+    background-color: #FFCA10;
+    display: flex;
+    width: 100px;
+}
+
+.ttt {
+    margin: 0 auto;
+    float: right;
+}
